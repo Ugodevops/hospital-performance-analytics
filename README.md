@@ -43,7 +43,7 @@ A completed hospital performance analytics project developed using Microsoft Pow
 The project involved data profiling, cleaning and transformation in Power Query, followed by the development of a structured data model. Dimension tables and a fact table were used to organise the analytical data. DAX measures supported the calculation of key performance indicators.
 
 ## Dashboard and Visualisations
-
+![Hospital Performance Intelligence Dashboard](./Screenshot%202026-09-01%20162704.png)
 The Power BI dashboard brings together financial, patient activity and departmental performance measures. Dashboard screenshots and the project file are included in this repository, subject to the files uploaded.
 
 ## Project Status
