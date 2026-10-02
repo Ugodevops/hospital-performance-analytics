@@ -43,6 +43,19 @@ A completed hospital performance analytics project developed using Microsoft Pow
 The project involved data profiling, cleaning and transformation in Power Query, followed by the development of a structured data model. Dimension tables and a fact table were used to organise the analytical data. DAX measures supported the calculation of key performance indicators.
 
 ## Dashboard and Visualisations
+## Key Analytical Observations
+
+The dashboard illustrates the following patterns using synthetic hospital data:
+
+- **Financial performance:** The dashboard displays ₦68 million in total bills and ₦12 million in total profit.
+- **Patient activity:** It records approximately 2,500 visits from 2,000 distinct patients.
+- **Profitability:** The displayed profit margin is 18%.
+- **Diagnosis patterns:** Diabetes has the highest displayed visit count, at 459, among the diagnoses shown.
+- **Revenue trends:** The monthly revenue chart illustrates fluctuations over the 2025 reporting period.
+
+## Data Disclaimer
+
+All figures and observations are based on synthetic practice data. They are intended to demonstrate data modelling, dashboard development and analytical techniques. They do not represent the actual performance of any hospital.
 ![Hospital Performance Intelligence Dashboard](./Screenshot%202026-09-01%20162704.png)
 The Power BI dashboard brings together financial, patient activity and departmental performance measures. Dashboard screenshots and the project file are included in this repository, subject to the files uploaded.
 
